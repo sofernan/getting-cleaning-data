@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Title - README
 ==========================================================================================
 This document explains the problem statement, explanation of attached code and instructions for running the code.
@@ -56,3 +57,9 @@ Create an R script called run_analysis.R that does the following.
 
 
 
+=======
+getting-cleaning-data
+=====================
+
+Documents for Getting&amp;Cleaning data data science course
+>>>>>>> e3a75f5659e305cbd4eb60c2323cd51a0fb51c60
