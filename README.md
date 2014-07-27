@@ -60,6 +60,3 @@ Create an R script called run_analysis.R that does the following.
 =======
 getting-cleaning-data
 =====================
-
-Documents for Getting&amp;Cleaning data data science course
-
